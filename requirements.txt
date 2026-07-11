@@ -4,22 +4,33 @@ streamlit
 numpy
 pandas
 
-# Face Recoqnition
-scikit-learn
-dlib-bin
+# Computer Vision
+opencv-python-headless
 
-
-git+https://github.com/ageitgey/face_recognition_models
-setuptools<70.0.0
-
-supabase
-bcrypt
-
-segno
+# Image
 pillow
 
 
+# Face Recoqnition
+scikit-learn
+dlib-bin
+face-recognition
+git+https://github.com/ageitgey/face_recognition_models
 
+# Database
+supabase
+bcrypt
+
+# QR
+segno
+
+
+
+# Audio
 librosa
 resemblyzer
+
+
+setuptools<70.0.0
+
 
